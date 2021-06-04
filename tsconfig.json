@@ -15,7 +15,7 @@
     "moduleResolution": "node",
     "importHelpers": true,
     "target": "es5",
-    "module": "es2015",
+    "module": "commonjs",
     "typeRoots": ["node_modules/@types"],
     "types": ["office-js"],
     "lib": [
@@ -28,6 +28,6 @@
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
     "strictTemplates": true,
-    
+
   }
 }
